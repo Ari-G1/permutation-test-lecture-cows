@@ -1,6 +1,6 @@
 # Permutation Test - Lecture & Code 
 
-A short statistics lecture (in hebrew) on the **permutation test**, a non-parametric way to
+A short hebrew statistics lecture on the **permutation test**, a non-parametric way to
 test whether two groups differ - without assuming a particular distribution.
 
 The talk is framed around a story: a dairy farmer runs a milk-supplement trial on
