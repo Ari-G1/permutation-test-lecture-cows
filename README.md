@@ -30,7 +30,3 @@ python code/permutation_test.py
 ## References
 
 - Wasserman, L. (2004). *All of Statistics: A Concise Course in Statistical Inference*. Springer.
-
-## Author
-
-Ariel Wingot
