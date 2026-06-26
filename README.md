@@ -1,4 +1,4 @@
-# Permutation Test — Lecture & Code 
+# Permutation Test - Lecture & Code 
 
 A short statistics lecture (in hebrew) on the **permutation test**, a non-parametric way to
 test whether two groups differ - without assuming a particular distribution.
@@ -11,13 +11,13 @@ re-shuffling the group labels and asking how often pure chance produces a gap as
 large as the one observed.
 
 **Result:** only ~12 of 500 shuffles beat the observed difference, giving a
-one-sided p ≈ **0.024 < 0.05** — evidence against the null that the supplement
+one-sided p ≈ **0.024 < 0.05** - evidence against the null that the supplement
 does nothing.
 
 ## Contents
 
-- `slides/` — the lecture deck (`.pptx`)
-- `code/` — the permutation-test implementation and the plot that produces the
+- `slides/` - the lecture deck (`.pptx`)
+- `code/` - the permutation-test implementation and the plot that produces the
   null distribution
 
 ## Running the code
