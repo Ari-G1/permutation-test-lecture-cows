@@ -18,6 +18,7 @@ does nothing.
 
 - `slides/` - the lecture deck (`.pptx`)
 - `code/` - the permutation-test implementation and the plot that produces the
+- `figures/`
   null distribution
 
 ## Running the code
