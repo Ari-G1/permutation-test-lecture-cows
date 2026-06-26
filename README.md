@@ -17,9 +17,8 @@ does nothing.
 ## Contents
 
 - `slides/` - the lecture deck (`.pptx`)
-- `code/` - the permutation-test implementation and the plot that produces the
-- `figures/`
-  null distribution
+- `code/` - the permutation-test implementation and the plot that produces the null distribution
+- `figures/` - the null distributions produced from the code
 
 ## Running the code
 
